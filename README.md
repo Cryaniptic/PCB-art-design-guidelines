@@ -32,3 +32,7 @@ PCB design software generally has a workflow that revolves around these layers, 
  - Areas that should be filled with copper
  - Areas that are exposed (missing silkscreen, this layer works as a negative)
  - Silkscreen
+
+![IMG_4402](https://github.com/user-attachments/assets/b676a041-5f9f-4537-aff3-9cf3f578ab51)
+
+![IMG_4407](https://github.com/user-attachments/assets/3ebedb67-b50b-4ad8-9bc7-522f0a950f42)
