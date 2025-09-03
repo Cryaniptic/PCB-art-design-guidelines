@@ -1,5 +1,6 @@
-![[PCB-Layers-and-Tips-to-Optimize-PCB-Layers.jpg]]
-![[layer-demo.png]]
+
+![PCB-Layers-and-Tips-to-Optimize-PCB-Layers](https://github.com/user-attachments/assets/c23cdfcc-bad3-4d4d-9b13-6ae56803641c)
+<img width="1480" height="495" alt="layer-demo" src="https://github.com/user-attachments/assets/f2438dfc-d44b-4e3b-ab29-31545c5fe0aa" />
 
 PCB layers are specified in the design software and are intended for functional purposes.
 Typically layers are used in the following manner;
